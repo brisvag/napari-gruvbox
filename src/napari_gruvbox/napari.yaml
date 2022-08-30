@@ -1,4 +1,18 @@
 name: napari-gruvbox
 display_name: napari Gruvbox
 contributions:
-  commands:
+  themes:
+  - id: gruvbox
+    label: Gruvbox
+    type: dark
+    colors:
+      canvas: black
+      console: black
+      background: '#282828'
+      foreground: '#ebdbb2'
+      primary: '#7c6f64'
+      secondary: '#504945'
+      highlight: '#98971a'
+      text: '#ebdbb2'
+      warning: '#fb4934'
+      current: '#458588'
