@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/brisvag/napari-gruvbox/branch/main/graph/badge.svg)](https://codecov.io/gh/brisvag/napari-gruvbox)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-gruvbox)](https://napari-hub.org/plugins/napari-gruvbox)
 
-Gruvbox theme for napari.
+Gruvbox theme for napari. Colors are taken from the palette in https://github.com/morhetz/gruvbox.
 
 ----------------------------------
 
