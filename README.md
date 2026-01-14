@@ -1,6 +1,6 @@
 # napari-gruvbox
 
-[![License GNU LGPL v3.0](https://img.shields.io/pypi/l/napari-gruvbox.svg?color=green)](https://github.com/brisvag/napari-gruvbox/raw/main/LICENSE)
+[![License GNU GPL v3.0](https://img.shields.io/pypi/l/napari-gruvbox.svg?color=green)](https://github.com/brisvag/napari-gruvbox/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-gruvbox.svg?color=green)](https://pypi.org/project/napari-gruvbox)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-gruvbox.svg?color=green)](https://python.org)
 [![tests](https://github.com/brisvag/napari-gruvbox/workflows/tests/badge.svg)](https://github.com/brisvag/napari-gruvbox/actions)
@@ -9,7 +9,7 @@
 [![npe2](https://img.shields.io/badge/plugin-npe2-blue?link=https://napari.org/stable/plugins/index.html)](https://napari.org/stable/plugins/index.html)
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-purple.json)](https://github.com/copier-org/copier)
 
-Gruvbox theme for napari. Colors are taken from the palette in https://github.com/morhetz/gruvbox.
+Gruvbox theme for napari.
 
 ----------------------------------
 
@@ -53,7 +53,7 @@ the coverage at least stays the same before you submit a pull request.
 
 ## License
 
-Distributed under the terms of the [GNU LGPL v3.0] license,
+Distributed under the terms of the [GNU GPL v3.0] license,
 "napari-gruvbox" is free and open source software
 
 ## Issues
