@@ -1,8 +1,36 @@
 name: napari-gruvbox
-display_name: Gruvbox
-# use 'hidden' to remove plugin from napari hub search results
-visibility: public
-# see https://napari.org/stable/plugins/technical_references/manifest.html#fields for valid categories
-# categories: []
+display_name: napari Gruvbox
 contributions:
-  commands:
+  themes:
+  - id: gruvbox-dark
+    label: Gruvbox Dark
+    type: dark
+    syntax_style: 'gruvbox-dark'  # not exposed yet on npe2
+    colors:
+      canvas: black
+      console: '#1d2021'    # bg0_h
+      background: '#282828' # bg
+      foreground: '#3c3836' # bg1
+      primary: '#7c6f64'    # bg4
+      secondary: '#928374'  # gray (1)
+      highlight: '#a89984'  # gray (2)
+      text: '#ebdbb2'       # fg
+      icon: '#ebdbb2'       # fg
+      warning: '#fb4934'    # red (2)
+      current: '#7c6f64'    # gb4
+  - id: gruvbox-light
+    label: Gruvbox Light
+    type: light
+    syntax_style: 'gruvbox-light'  # not exposed yet on npe2
+    colors:
+      canvas: white
+      console: '#f9f5d7'    # bg0_h
+      background: '#fbf1c7' # bg
+      foreground: '#ebdbb2' # bg1
+      primary: '#a89984'    # bg4
+      secondary: '#7c6f64'  # gray (1)
+      highlight: '#928374'  # gray (2)
+      text: '#3c3836'       # fg
+      icon: '#3c3836'       # fg
+      warning: '#9d0006'    # red (light)
+      current: '#a89984'    # gb4
