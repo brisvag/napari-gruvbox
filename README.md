@@ -11,6 +11,7 @@
 
 Gruvbox theme for napari.
 
+<img width="779" height="576" alt="Image" src="https://github.com/user-attachments/assets/42435324-c906-4eb3-8ba2-dd1930cfa224" />
 ----------------------------------
 
 This [napari] plugin was generated with [copier] using the [napari-plugin-template] (None).
